@@ -1,6 +1,6 @@
 # Simultaneous Estimation of Multi-year Multiple Systems Data
 
-This repository contains the code and data files for executing the data analysis.
+This repository contains the code and data file for executing the data analysis.
 
 The data required for our analysis contains TRS data for 6 years of Adolescent Pregnancy in Thailand and are stored as a csv file named 'Adolescent Pregnancy Data.csv'. This must be read in the beginning of the data analysis code by updating its file path accordingly.
 
